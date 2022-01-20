@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/maury/Desktop/Project/RealtimeDataBase/app/src/main/res/drawable/bg_color.xml" value="0.18871794871794872" />
+        <entry key="..\:/Users/maury/Desktop/Project/RealtimeDataBase/app/src/main/res/drawable/input.xml" value="0.16296296296296298" />
+        <entry key="..\:/Users/maury/Desktop/Project/RealtimeDataBase/app/src/main/res/drawable/login_btn.xml" value="0.16296296296296298" />
+        <entry key="..\:/Users/maury/Desktop/Project/RealtimeDataBase/app/src/main/res/font/bangers.xml" value="0.16296296296296298" />
+        <entry key="..\:/Users/maury/Desktop/Project/RealtimeDataBase/app/src/main/res/layout/activity_event_display.xml" value="0.22" />
+        <entry key="..\:/Users/maury/Desktop/Project/RealtimeDataBase/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/maury/Desktop/Project/RealtimeDataBase/app/src/main/res/layout/activity_public_score.xml" value="0.22" />
+        <entry key="..\:/Users/maury/Desktop/Project/RealtimeDataBase/app/src/main/res/layout/activity_score_admin.xml" value="0.5" />
+        <entry key="..\:/Users/maury/Desktop/Project/RealtimeDataBase/app/src/main/res/layout/activity_score_display.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/maury/Desktop/Project/RealtimeDataBase/app/src/main/res/layout/activity_score_display2.xml" value="0.22" />
+        <entry key="..\:/Users/maury/Desktop/Project/RealtimeDataBase/app/src/main/res/layout/activity_splashscreen2.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

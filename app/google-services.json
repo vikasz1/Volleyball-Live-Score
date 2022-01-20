@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "374768887823",
+    "firebase_url": "https://fir-example-b568c-default-rtdb.firebaseio.com",
+    "project_id": "fir-example-b568c",
+    "storage_bucket": "fir-example-b568c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374768887823:android:4353b62be84107c5811b7a",
+        "android_client_info": {
+          "package_name": "com.vikas.firebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374768887823-ul8lnurb9t733l173m81ahu0gg5r8psg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZO5WvZIeYBD_Q5QU0DxcpwjN83t2eqH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374768887823-ul8lnurb9t733l173m81ahu0gg5r8psg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374768887823:android:acfcba4a1f7dd77a811b7a",
+        "android_client_info": {
+          "package_name": "com.vikas.firebasegoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374768887823-kc7c0hvegs2oiv457to0547ubuitq31l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vikas.firebasegoogle",
+            "certificate_hash": "3b23aa6d6e5a8943d1ca41320750f28c491c2ebd"
+          }
+        },
+        {
+          "client_id": "374768887823-ul8lnurb9t733l173m81ahu0gg5r8psg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZO5WvZIeYBD_Q5QU0DxcpwjN83t2eqH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374768887823-ul8lnurb9t733l173m81ahu0gg5r8psg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374768887823:android:a3012fd251284133811b7a",
+        "android_client_info": {
+          "package_name": "com.vikas.realtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374768887823-ul8lnurb9t733l173m81ahu0gg5r8psg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZO5WvZIeYBD_Q5QU0DxcpwjN83t2eqH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374768887823-ul8lnurb9t733l173m81ahu0gg5r8psg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

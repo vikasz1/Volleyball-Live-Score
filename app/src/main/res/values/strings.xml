@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">VolleyBall Live Score</string>
+
+<!--    Match 1 opponent-->
+    <string name="M1team1name">Dragon Warriors</string>
+    <string name="M1team2name">Mugiwara Tusker</string>
+<!--    Match 2 opponent-->
+    <string name="M2team1name">Ankit</string>
+    <string name="M2team2name">Ashutosh</string>
+<!--    Match 3 opponent-->
+    <string name="M3team1name">Ankit</string>
+    <string name="M3team2name">Ashutosh</string>
+<!--    Match 4 opponent-->
+    <string name="M4team1name">Ankit</string>
+    <string name="M4team2name">Ashutosh</string>
+<!--    Match 5 opponent-->
+    <string name="M5team1name">Ankit</string>
+    <string name="M5team2name">Ashutosh</string>
+
+
+
+</resources>
